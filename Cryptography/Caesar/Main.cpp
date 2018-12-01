@@ -1,3 +1,9 @@
+/* Andry RAFAM ANDRIANJAFY - December 2018
+
+Implementation of Caesar cipher in C++, under Linux Ubuntu 16.04 LTS
+
+GCC version 6.5.0 and GDB version 8.2 */
+
 #include <iostream>
 #include <cstring>
 #include "Caesar.h"
