@@ -1,6 +1,6 @@
 /* Andry RAFAM ANDRIANJAFY - December 2018
 
-Blowfish (Bruce Schneier) program. Linux Ubuntu 16.04 - LTS
+Implementation of Blowfish in C++. Linux Ubuntu 16.04 - LTS
 
 GCC 6.5.0 && GDB 8.2 */
 
