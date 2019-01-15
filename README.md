@@ -2,6 +2,7 @@
 Cryptography is a repository which contains and will contains cryptographic protocol. It is intended for edcuational purpose; not for practical use.
 
 # List in alphabetical order
+- ARC4 : Rivest Cipher 4 by Ronald Rivest
 - Blowfish : By Bruce Schneier
 - Caesar : Caesar cipher
 - RC4+ : Upadted version of RC4 (Rivest Cipher Four) proposed by Maitra and Paul at Indocrypt 2008
