@@ -1,5 +1,5 @@
 # Cryptography
-Cryptography is a repository which contains and will contains cryptographic protocol. It is intended for edcuational purpose first; not for practical use.
+Cryptography is a repository which contains and will contains cryptographic protocol. It is intended for edcuational purpose; not for practical use.
 
 # List in alphabetical order
 - Blowfish : By Bruce Schneier
