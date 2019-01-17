@@ -5,6 +5,7 @@ typedef unsigned char uchar;
 
 class ARC4 {
 	public:
+		ARC4(); // Constructor
 		void encrypt (uchar *plaintext, char *key, uchar *ciphertext);
 	
 	private:
