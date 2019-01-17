@@ -4,6 +4,8 @@
 
 using namespace std;
 
+ARC4::ARC4() { }
+
 void ARC4::KSA (char *key, uchar *Sbox)
 {
 	int len = strlen(key);
